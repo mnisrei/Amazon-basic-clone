@@ -1,5 +1,5 @@
 # Firebase Deployed Link:  
-https://e-clone-42976.web.app/
+Firebase Link:                 https://e-clone-42976.web.app/
 
 # Getting Started with Create React App
 
